@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tbosse20
+- 👋 Hi, I’m Tonko Bossen
 - 👀 I’m interested in ... Full'stack
 - 🌱 I’m currently learning ... Python & Java
 - 💞️ I’m looking to collaborate on ... Health and education technology
-- 📫 How to reach me ... 
+- 📫 How to reach me ... tbosse20@student.aau.dk
 
 <!---
 tbosse20/tbosse20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
