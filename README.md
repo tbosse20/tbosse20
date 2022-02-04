@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tonko Bossen
-- 👀 I’m interested in ... Full'stack
+- 👀 I’m interested in ... Computer Vision & Artificial Intelligence
 - 🌱 I’m currently learning ... Python & Java
-- 💞️ I’m looking to collaborate on ... Health and education technology
+- 💞️ I’m looking to collaborate on ... HCI, CV, AI, health & education technology
 - 📫 How to reach me ... tbosse20@student.aau.dk
 
 <!---
