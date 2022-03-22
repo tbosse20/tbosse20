@@ -3,7 +3,7 @@
 - 💞️ I’ve a passion for ... Computer Vision, Artificial Intelligence, and Human-Computer Interaction
 - 👀 I’m interested in ... Health, education, and (information) technology
 - 💪 I’m primarily working in ... Python
-- 📂 I'm also working in ... Java, HTML, CSS, JavaScript, (C#)
+- 📂 I'm also working in ... Java, JavaScript, (HTML, CSS, C#)
 - 🌱 I’m currently learning ... C++
 - 📫 How to reach me ... tbosse20@student.aau.dk
 
